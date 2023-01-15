@@ -16,4 +16,5 @@ int main() {
     freopen(VanLoi".out", "w", stdout);
 #endif
     cin >> n;
+    cout << "HEHEBOI";
 }
