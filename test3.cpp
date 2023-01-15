@@ -16,5 +16,5 @@ int main() {
     freopen(VanLoi".out", "w", stdout);
 #endif
     cin >> n;
-    cout << "Test lan thu 3 ne hihi";
+    cout << "Test lan thu 3 ne hihi haha";
 }
